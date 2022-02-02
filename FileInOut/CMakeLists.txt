@@ -1,0 +1,1 @@
+add_executable(fileinout src/fileinout.cpp)
